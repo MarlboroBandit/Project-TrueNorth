@@ -1,2 +1,2 @@
 # Project-TrueNorth
-A BlackJack simulator CLI made with C++.
+A BlackJack risk simulator CLI made with C++.

@@ -44,7 +44,7 @@ A high-performance, stochastic simulation engine written in pure C++23 that mode
 
 The project is pretty much hardcoded, but you can freely modify the values.
 
-Modify it here: ***you can find it in the main.cpp file***
+Modify it here: *you can find it in the main.cpp file*
 ```cpp
 const int SIM_SESSIONS = 10000;
 const int HANDS_PER_SESSION = 1000;

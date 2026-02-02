@@ -2,7 +2,6 @@
 <br />
 <div align="center">
     <h3 align="center">Project-TrueNorth</h3>
-
     <p align="center">
         A Blackjack Risk simulator CLI made with C++.
         <br />
